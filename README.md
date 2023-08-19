@@ -1,5 +1,5 @@
 # Data-Education-for-Children
 
-"ShengwenDai_Data_Education_for_Children_s1821025" refers to the thesis itself.
+For the thesis, please check "ShengwenDai_Data_Education_for_Children_s1821025".
 
-"Shengwen_teaching meterial_latest" refers to the online teaching material for children.
+For the online teaching material, please check "Shengwen_teaching meterial_latest".
